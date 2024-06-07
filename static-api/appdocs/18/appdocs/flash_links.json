@@ -1,0 +1,17 @@
+{
+    "win32": [
+        {
+            "link": "https://files03.tchspt.com/temp/install_flash_player_ppapi.exe",
+            "title": "TechSpot"
+        }
+    ],
+    "win32Hash": "0B217F793B0420BF403CDCEE49B4038A",
+    "darwin": [
+        {
+            "link": "https://files03.tchspt.com/temp/install_flash_player_osx_ppapi.dmg",
+            "title": "TechSpot"
+        }
+    ],
+    "darwinHash": "19187E2B1E54CF7BC7CD49FD17DCB9DD",
+    "forceManualFlash": true
+}
